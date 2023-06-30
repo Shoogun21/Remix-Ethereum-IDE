@@ -13,7 +13,7 @@ To run this program, you can use Remix, an online Solidity IDE. To get started, 
 
 I input my code there 
 
-// SPDX-License-Identifier: MIT
+``` // SPDX-License-Identifier: MIT
 pragma solidity 0.8.18;
 
 contract MyToken {
